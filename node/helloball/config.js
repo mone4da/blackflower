@@ -1,7 +1,7 @@
 module.exports = {
-  key: '00000000-00000003E0',
-  password: 'FIS5L1EFGI0GFY43',
-  peer: '00000000-0000000000',
+  key: 'ACCESS_KEY',
+  password: 'PASSWORD',
+  peer: 'ACCESS_KEY',
 
   connection: {
     host: 'http://207.244.254.63:23571',
