@@ -1,8 +1,7 @@
-helloball service is a proof of concept, 
-to demonstrate how easy is to develop a service for blackflower.
+helloball service is a proof of concept 
+that demonstrates how easy it is to develop a service for blackflower.
 
-We are running a dart based socket.io server, which is behind, 
-so, as first step install an older version of socket.io-client
+We are running a dart based socket.io server, which is behind, so as first step install an older version of socket.io-client
 
 npm install socket.io-client@2.0.2
 
